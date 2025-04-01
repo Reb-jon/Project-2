@@ -4,7 +4,7 @@ In this project, we analyzed UK climate projection data from 2006 to 2080 using 
 Through extensive exploratory data analysis, including decadal heatmaps and regression analyses, we identified a clear warming trend across the UK. We employed xarray to handle the complex multidimensional data and used Cartopy to create insightful geospatial visualizations.
 
 ## Excelled in the project  
-Successful model prediction:
+Effective model prediction:
 The project featured good visualization models that effectively conveyed climate data.   
 
 Clear Introduction and Conclusion:
