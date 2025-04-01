@@ -5,10 +5,16 @@ Through extensive exploratory data analysis, including decadal heatmaps and regr
 
 ## Excelled in the project  
 Successful model prediction:
-The project featured good visualization models that effectively conveyed complex climate data.   
+The project featured good visualization models that effectively conveyed climate data.   
 
 Comprehensive Introduction and Conclusion:
-The project was framed with a thorough introduction and a well-rounded conclusion. This approach ensured that the analysis was both contextually rich at the beginning and neatly summarized at the end, reinforcing the overall narrative.  
+The project was framed with a thorough introduction and a well-rounded conclusion,which ensured that the analysis was both contextually rich at the beginning and neatly summarized at the end.
 
-Effective Communication and Collaboration:
-Strong communication and collaboration among team members were key to the project’s success. Regular discussions and clear exchanges of ideas facilitated smooth teamwork, allowing us to address challenges and integrate diverse perspectives efficiently.
+Effective Communication and Collaboration: 
+we have good communication and collaboration among team members. Regular discussions and clear exchanges of ideas facilitated smooth teamwork, allowing us to address challenges and integrate perspectives efficiently.  
+
+
+## Challengeing  
+Extended datasets: We encountered difficulties in extending the dataset, particularly when integrating external data sources. Aligning the temporal and spatial resolutions between the original climate data and additional datasets required complex data transformation and validation processes.
+
+
