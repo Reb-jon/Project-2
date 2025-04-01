@@ -7,14 +7,15 @@ Through extensive exploratory data analysis, including decadal heatmaps and regr
 Successful model prediction:
 The project featured good visualization models that effectively conveyed climate data.   
 
-Comprehensive Introduction and Conclusion:
-The project was framed with a thorough introduction and a well-rounded conclusion,which ensured that the analysis was both contextually rich at the beginning and neatly summarized at the end.
+Clear Introduction and Conclusion:
+The project was framed with a thorough introduction and a clear conclusion,which ensured that the analysis was both contextually rich at the beginning and neatly summarized at the end.
 
 Effective Communication and Collaboration: 
-we have good communication and collaboration among team members. Regular discussions and clear exchanges of ideas facilitated smooth teamwork, allowing us to address challenges and integrate perspectives efficiently.  
+we have good communication and collaboration among team members. Regular discussions and clear exchanges of ideas facilitated teamwork, allowing us to address challenges and integrate perspectives efficiently.  
 
 
 ## Challengeing  
 Extended datasets: We encountered difficulties in extending the dataset, particularly when integrating external data sources. Aligning the temporal and spatial resolutions between the original climate data and additional datasets required complex data transformation and validation processes.
 
+Data prediction issues: During the presentation, not all dataset results were showcased, resulting in a lack of comparative visualization between datasets. Additionally, the absence of model validation may lead to poor performance of model.
 
