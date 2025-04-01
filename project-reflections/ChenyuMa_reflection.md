@@ -17,5 +17,5 @@ we have good communication and collaboration among team members. Regular discuss
 ## Challenges
 Extended datasets: We encountered difficulties in extending the dataset, particularly when integrating external data sources. Aligning the temporal and spatial resolutions between the original climate data and additional datasets required complex data transformation and validation processes.
 
-Data prediction issues: During the presentation, not all dataset results were showcased, resulting in a lack of comparative visualization between datasets. Additionally, the absence of model validation may lead to poor performance of model.
+Data prediction issues: During the presentation, not all dataset results were showcased, resulting in a lack of comparative visualization between datasets. Additionally, the absence of model validation may leads to poor performance of model.
 
